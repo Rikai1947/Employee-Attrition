@@ -1,0 +1,12 @@
+{
+    "logging_level": "INFO",
+    "data_path": "C:\\Users\\SRINJAY\\Downloads\\IBM_HR_Attrition.csv",
+    "model_path": "C:\\Users\\SRINJAY\\Downloads\\IBM_HR_Attrition.pkl",
+    "model_name": "IBM_HR_Attrition.pkl",
+    "model_type": "classification",
+    "test_data_file": "C:\\Users\\SRINJAY\\Downloads\\test_data.csv",
+    "model_params": {
+        "param1": "value1",
+        "param2": "value2"
+    }
+}
